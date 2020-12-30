@@ -37,3 +37,4 @@ def tanya():
 
 tanya()
 new_rek()
+deposit()
