@@ -36,3 +36,4 @@ def tanya():
         print("Masukkan yang anda masukkan salah")
 
 tanya()
+new_rek()
